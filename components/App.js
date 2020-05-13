@@ -1,7 +1,8 @@
 import React from 'react'
 import ArticleList from './ArticleList'
 import articles from '../fixtures'
-import '../css/bootstrap.css'
+// import 'bootstrap/dist/css/bootstrap.css'
+import 'css/bootstrap.css'
 
 function App() {
   return(
